@@ -1,1 +1,1 @@
-# React.JS_Praticepn
+# React.JS_Pratice
